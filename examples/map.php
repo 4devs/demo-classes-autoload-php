@@ -1,8 +1,5 @@
 <?php
 
-error_reporting(E_ALL);
-ini_set('display_errors', true);
-
 $srcDir = __DIR__ . '/../src';
 
 require_once $srcDir . '/Autoloader/MapAutoloader.php';
