@@ -1,5 +1,5 @@
-php-autoloaders
-===============
+PHP classes autoload
+====================
 
 Examples of different class autoloaders and their usage:
 
